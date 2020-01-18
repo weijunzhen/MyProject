@@ -8,6 +8,7 @@
 [git command](https://blog.csdn.net/themagickeyjianan/article/details/79683980)
 [GitHub QAuth](https://developer.github.com/apps/building-github-apps/)
 [differents from get and post](https://www.cnblogs.com/logsharing/p/8448446.html)
+[oauth授权流程](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/#redirect-urls)
 ##工具
 [git](https://git-scm.com/)
 [Visual Paradigm](https://www.visual-paradigm.com)
