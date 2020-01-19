@@ -9,6 +9,7 @@
 [GitHub QAuth](https://developer.github.com/apps/building-github-apps/)  
 [differents from get and post](https://www.cnblogs.com/logsharing/p/8448446.html)  
 [oauth授权流程](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/#redirect-urls)  
+[OKHTTP](https://square.github.io/okhttp/)  
 ##工具
 [git](https://git-scm.com/)  
 [Visual Paradigm](https://www.visual-paradigm.com)  
