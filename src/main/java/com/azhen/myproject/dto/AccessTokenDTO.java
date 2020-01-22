@@ -2,7 +2,7 @@ package com.azhen.myproject.dto;
 
 public class AccessTokenDTO {
     private String client_id;
-    private String client_secert;
+    private String client_secret;
     private String  code;
     private String redirect_uri;
     private String state;
@@ -15,12 +15,12 @@ public class AccessTokenDTO {
         this.client_id = client_id;
     }
 
-    public String getClient_secert() {
-        return client_secert;
+    public String getClient_secret() {
+        return client_secret;
     }
 
-    public void setClient_secert(String client_secert) {
-        this.client_secert = client_secert;
+    public void setClient_secret(String client_secret) {
+        this.client_secret = client_secret;
     }
 
     public String getCode() {
